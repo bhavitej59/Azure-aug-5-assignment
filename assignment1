@@ -1,0 +1,52 @@
+What is cloud computing?
+
+Cloud computing is the delivery of different services through the Internet, including data storage, servers, databases, networking, and software.
+
+What id Devops?
+
+DevOps is the combination of practices and tools designed to increase an organization's ability to deliver applications and services faster than traditional software development processes.
+
+What is Agile vs scrum vs kanban?
+
+Agile is a structured and iterative approach to project management and product development.Kanban is all about visualizing your work, limiting work in progress, and maximizing efficiency(or flow).Scrum teams commit to ship working software through set intervals called sprints. Their goal is to create learning loops to quickly gather and integrate customer feedback.
+
+What is sprint?
+
+A sprint is a short, time boxed period when a scrum team works to complete a set amount of work.
+
+What is a Devops Life cycle?
+
+DevOps lifecycle focuses on closing the loop between development and operations and driving production through continuous development, integration, testing, monitoring and feedback, delivery, and deployment.
+
+What is a resource group?
+
+A resource group is a logical container into which Azure resources like web apps, databases, and storage accounts are deployed and managed.
+
+What is a subscription?
+
+An Azure subscription is linked to a single account, the one that was used to create the subscription and is used for billing purposes. Within the subscription, resources can be provisioned as instances of the many Azure products and services.
+
+LINUX COMMANDS:
+ls    : to list information about files and directories within the file system
+mkdir : make directory
+chmod : To change directory permissions in Linux
+mkdir -p : create the directory and, if required, all parent directories
+netstat : networking tool used for troubleshooting and configuration
+top   : to show the Linux processes
+
+What is SDLC?
+
+The system development life cycle is a project management model that defines the stages involved in bringing a project from inception to completion
+
+What is hostname and how can you find it?
+
+A hostname is a domain name assigned to a host computer. In an open command line, type ping followed by the hostname and press Enter. The command line will show the IP address of the requested web resource in the response.
+
+What is an IP address and how can you find it?
+
+
+IP address stands for internet protocol address; it is an identifying number that is associated with a specific computer or computer network. First, click on your Start Menu and type cmd in the search box and press enter. A black and white window will open where you will type ipconfig /all and press enter. There is a space between the command ipconfig and the switch of /all. Your ip address will be the IPv4 address.
+
+What is Kernel in Linux?
+
+The Linux kernel is the main component of a Linux operating system (OS) and is the core interface between a computer's hardware and its processes.
